@@ -12,3 +12,4 @@ zuul:
     api-gateway:
       path: /api-gateway/**
       serviceId: eureka-client
+#注释
